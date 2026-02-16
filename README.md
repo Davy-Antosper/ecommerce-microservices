@@ -1,6 +1,6 @@
 # E-commerce Microservices Architecture
 
-Système de microservices robuste et scalable construit avec **Java 21**, **Spring Boot 3.5**, et **Spring Cloud**.
+Système de microservices robuste et scalable construit avec **Java 21**,**redis** , **Spring Boot 3.5**,**Spring Scurity** et **Spring Cloud**.
 
 ---
 
